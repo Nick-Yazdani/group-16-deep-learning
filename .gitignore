@@ -30,3 +30,4 @@ env.bak/
 # Miscellaneous
 .DS_Store
 Thumbs.db
+.ipynb_checkpoints
