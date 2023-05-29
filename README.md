@@ -53,14 +53,48 @@ We encourage every team member to actively contribute to this repository. To con
 Please note that all contributions to this repository should align with the project's goals and guidelines. We expect respectful and professional behavior from all contributors.
 
 ## Dependency management
+
 1. Ensure you have installed correct NVIDIA drivers / CUDA >= 11.8 / CuDNN (version determined by corresponding CUDA version)
 
 2. Create a virtual environment with venv and activate it
 
 3. Then run the following:
+
 ```console
 pip install -r requirements.txt --index-url https://download.pytorch.org/whl/cu118
 ```
+
+## Datasets
+
+These are the links to the datasets to be used for this project:
+
+1. [English-Hindi Corpus](https://www.cfilt.iitb.ac.in/iitb_parallel/)
+
+2. [Speech Dataset](https://ieee-dataport.org/open-access/speech-dataset-hindi-language)
+
+3. [NLP for Hindi](https://github.com/goru001/nlp-for-hindi)
+
+You are free to add any other dataset you find useful for the project.
+
+## Other resources
+
+* [Micrograd](https://github.com/karpathy/micrograd)
+
+* [Tinygrad](https://github.com/geohot/tinygrad)
+
+* [Awesome List](https://github.com/sindresorhus/awesome)
+
+* [Awesome NLP](https://github.com/keon/awesome-nlp)
+
+* [Papers With Code](https://paperswithcode.com/)
+
+* [Learn OpenCV](https://github.com/spmallick/learnopencv)
+
+* [Made with ML](https://github.com/GokuMohandas/Made-With-ML)
+
+* [ChatPDF](https://www.chatpdf.com/)
+
+* [Semantic Scholar](https://www.semanticscholar.org/)
 
 ## Conclusion
 
