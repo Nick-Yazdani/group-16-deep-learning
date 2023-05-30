@@ -74,6 +74,8 @@ These are the links to the datasets to be used for this project:
 
 3. [NLP for Hindi](https://github.com/goru001/nlp-for-hindi)
 
+4. [AI4Bharat](https://ai4bharat.org/datasets)
+
 You are free to add any other dataset you find useful for the project.
 
 ## Other resources
